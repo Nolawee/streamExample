@@ -7,10 +7,38 @@
 		font: 10px sans-serif;
 	}
 
-	
+	div {
+		padding-left: 50px;
+		padding-top: 15px;
+		width: 50%;
+		margin: 0 auto;
+		font: 14px;
+	}
 
+	input {
+		border-top: 0;
+		border-left: 0;
+		border-right: 0;
+		text-align: center;
+		font: 14px;
+		width: 60px;
+	}
 
+	.axis path,
+	.axis line {
+		fill: none;
+		stroke: #000;
+		shape-rendering: crispEdges;
+	}	
 
+	.x.axis path {
+		display: none;
+	}
+
+	.line {
+		fill: none;
+		stroke-width: 1.5px;
+	}
 
 </style>
 
@@ -23,18 +51,21 @@
 
 	<script>
 
+		var width = 960;
+		var height = 500 - 37;
+
   		var familyMembers = ['Jon', 'James','Robert','Mary'];
 			familyMembers = familyMembers.map(function (member){
 			return member + ' Jones'
 		});
-
+		/*
 		newData = d3.range(4).map(function(){
 			return d3.range(3).map(Math.random);
 		})
 
 		console.log(familyMembers)
 		console.log(newData)
-
+		*/
 		function newData(lineNumber, points){
 			return d3.range(lineNumber).map(function(){
 				return d3.range(points).map(function(item,index){
@@ -42,9 +73,6 @@
 				});
 			});
 		}
-
-		var width = 960;
-		var height = 500;
 
 		var margin = {top: 20, right: 20, bottom:20, left:50};
 
@@ -93,6 +121,7 @@
 		}
 
 		render();
+
 		setInterval(render, 1500);
 
 	</script>
