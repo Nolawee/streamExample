@@ -1,0 +1,104 @@
+<!doctype html>
+<meta charset="utf-8">
+<html>
+<style>
+	
+	body{
+		font: 10px sans-serif;
+	}
+
+	
+
+
+
+
+</style>
+
+<head>
+	<title>D3 tutorial</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+	<script>
+
+  		var familyMembers = ['Jon', 'James','Robert','Mary'];
+			familyMembers = familyMembers.map(function (member){
+			return member + ' Jones'
+		});
+
+		newData = d3.range(4).map(function(){
+			return d3.range(3).map(Math.random);
+		})
+
+		console.log(familyMembers)
+		console.log(newData)
+
+		function newData(lineNumber, points){
+			return d3.range(lineNumber).map(function(){
+				return d3.range(points).map(function(item,index){
+					return {x:index, y:Math.random()*100};
+				});
+			});
+		}
+
+		var width = 960;
+		var height = 500;
+
+		var margin = {top: 20, right: 20, bottom:20, left:50};
+
+		var svg = d3.select("body").append("svg")
+			.attr("height", height).attr("width", width)
+			.append("g")
+				.attr("transform", "translate(" + margin.left + "," + margin.right + ")")
+
+		var xScale = d3.scale.linear()
+			.range([0,width - margin.left - margin.right])
+
+		var yScale = d3.scale.linear()
+			.range([height - margin.left - margin.right,0])
+
+		var line = d3.svg.line().interpolate("monotone")
+			.x(function(d){ return xScale(d.x); })
+			.y(function(d){ return yScale(d.y); })
+
+		function render(){
+			var data = newData(8,3);
+
+			var yMin = data.reduce(function(pv,cv){
+				var currentMin = cv.reduce(function(pv,cv){
+					return Math.min(pv,cv.y);
+				},100)
+				return Math.min(pv,currentMin);
+			},100);
+			var yMax = data.reduce(function(pv,cv){
+				var currentMax = cv.reduce(function(pv,cv){
+					return Math.max(pv,cv.y);
+				},0)
+				return Math.max(pv,currentMax);
+			},0);
+
+			yScale.domain([yMin,yMax]);
+
+			var yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+			svg.selectAll(".y.axis").remove();
+
+			var lines = svg.selectAll(".line").data(data).attr("class","line");
+
+			lines.enter().append("path")
+				.attr("class", "line")
+				.attr("d",line).style("stroke","blue");
+		}
+
+		render();
+		setInterval(render, 1500);
+
+	</script>
+
+
+
+</body>
+
+</html>

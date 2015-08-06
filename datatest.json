@@ -1,0 +1,184 @@
+{  
+   "updatedFeeds":{  
+      "updatedFeed":[  
+         {  
+            "feedTitle":"World business news - CNNMoney.com",
+            "feedUrl":"http://rss.cnn.com/rss/money_news_international.rss",
+            "websiteUrl":"http://money.cnn.com/news/international/?section=money_news_international",
+            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
+            "whenLastUpdate":"Mon, 22 Jun 2015 16:16:38 GMT",
+            "item":[  
+               {  
+                  "title":"Greek crisis: \"We should have been smarter\"",
+                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/mI2QSTq-UHQ/index.html",
+                  "body":"Greeks are weary after years of austerity, but most also want to stay in the eurozone. It's a tough choice.",
+                  "pubDate":"Mon, 22 Jun 2015 15:54:30 GMT",
+                  "permaLink":"",
+                  "id":"0010579"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > World",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/World.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+            "feedDescription":"World",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:34:19 GMT",
+            "item":[  
+               {  
+                  "title":"Leak of Pope Francis’ Encyclical Hints at Tensions in Vatican",
+                  "link":"http://rss.nytimes.com/c/34625/f/642565/s/474c380b/sc/31/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Ceurope0Cleak0Eof0Epope0Efrancis0Eencyclical0Ehints0Eat0Etensions0Ein0Evatican0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The unexpected leak has raised questions about who caused it, whether they meant to embarrass the pope and if it portends larger fights to come.",
+                  "pubDate":"Tue, 16 Jun 2015 19:40:37 GMT",
+                  "permaLink":"",
+                  "id":"0001188"
+               }
+            ]
+         },
+         
+         {  
+            "feedTitle":"NYT > Food",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/dining/index.html?partner=rss&emc=rss",
+            "feedDescription":"DiningandWine",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:06:51 GMT",
+            "item":[  
+               {  
+                  "title":"Off the Menu: Gabriel Kreuther Opening His Own Place; Dante Gets a Spruce-Up",
+                  "link":"http://rss.nytimes.com/c/34625/f/640327/s/474b5d35/sc/26/l/0L0Snytimes0N0C20A150C0A60C170Cdining0Cgabriel0Ekreuther0Eopening0Ehis0Eown0Eplace0Edante0Egets0Ea0Espruce0Eup0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Sofrito moves to a new home, while lunch crowds gather for sandwiches at David Chang’s Fuku.",
+                  "pubDate":"Tue, 16 Jun 2015 18:33:09 GMT",
+                  "permaLink":"",
+                  "id":"0000853"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Business Day",
+            "feedUrl":"http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/business/index.html?partner=rss&emc=rss",
+            "feedDescription":"Business",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:06:48 GMT",
+            "item":[  
+               {  
+                  "title":"Economic Scene: Doing More, Not Less, to Save Retirees From Financial Ruin",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474bb3cc/sc/24/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Ceconomy0Cdoing0Emore0Enot0Eless0Eto0Esave0Eretirees0Efrom0Efinancial0Eruin0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The United States may need to enhance Social Security rather than curb it and require employers to take more responsibility for employees’ retirement savings.",
+                  "pubDate":"Tue, 16 Jun 2015 17:55:56 GMT",
+                  "permaLink":"",
+                  "id":"0000848"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > World",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/World.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+            "feedDescription":"World",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:41 GMT",
+            "item":[  
+               {  
+                  "title":"Putin Says 40 New Missiles Will Be Added to Russian Nuclear Arsenal",
+                  "link":"http://rss.nytimes.com/c/34625/f/642565/s/474bc126/sc/7/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Ceurope0Cputin0E40A0Enew0Emissiles0Erussian0Enuclear0Earsenal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The announcement came a day after Russian officials denounced a plan by the United States to station tanks and heavy weapons in NATO member states on Russia’s border.",
+                  "pubDate":"Tue, 16 Jun 2015 18:27:26 GMT",
+                  "permaLink":"",
+                  "id":"0000789"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Politics",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Washington.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/politics/index.html?partner=rss&emc=rss",
+            "feedDescription":"Politics",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:40 GMT",
+            "item":[  
+               {  
+                  "title":"First Draft: Choice Words From Donald Trump, Presidential Candidate",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b5c23/sc/7/l/0L0Snytimes0N0Cpolitics0Cfirst0Edraft0C20A150C0A60C160Cchoice0Ewords0Efrom0Edonald0Etrump0Epresidential0Ecandidate0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Donald Trump was typically bombastic, opinionated and full of praise for himself. “I like China,” he said. “I just sold an apartment for $15 million to somebody from China. Am I supposed to dislike them?”",
+                  "pubDate":"Tue, 16 Jun 2015 18:02:43 GMT",
+                  "permaLink":"",
+                  "id":"0000788"
+               },
+               {  
+                  "title":"House Moves to Delay Action on Trade Bill for 6 Weeks",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b5c24/sc/7/l/0L0Snytimes0N0C20A150C0A60C170Cus0Chouse0Emoves0Eto0Edelay0Eaction0Eon0Etrade0Ebill0Efor0E60Eweeks0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The effort would give the House until the end of July to try and line up votes needed to give President Obama fast-track trade negotiating authority.",
+                  "pubDate":"Tue, 16 Jun 2015 18:03:42 GMT",
+                  "permaLink":"",
+                  "id":"0000787"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Television",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Television.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/television/index.html?partner=rss&emc=rss",
+            "feedDescription":"Television",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:35 GMT",
+            "item":[  
+               {  
+                  "title":"Excerpt: ‘Orange Is the New Black’",
+                  "link":"http://rss.nytimes.com/c/34625/f/640388/s/474baf9b/sc/28/l/0L0Snytimes0N0Cvideo0Cembedded0Carts0Ctelevision0C10A0A0A0A0A0A0A37434520Cexcerpt0Eorange0Eis0Ethe0Enew0Eblack0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Laverne Cox and Selenis Leyva in a scene from the third season of the Netflix series.",
+                  "pubDate":"Tue, 16 Jun 2015 18:11:55 GMT",
+                  "permaLink":"",
+                  "id":"0000786"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Sports",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Sports.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/sports/index.html?partner=rss&emc=rss",
+            "feedDescription":"Sports",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:29 GMT",
+            "item":[  
+               {  
+                  "title":"Sydney Leroux Returns to Vancouver but Says She Isn’t Looking Back",
+                  "link":"http://rss.nytimes.com/c/34625/f/640382/s/474b76bd/sc/13/l/0L0Snytimes0N0C20A150C0A60C170Csports0Csoccer0Csydney0Eleroux0Ereturns0Eto0Evancouver0Ebut0Esays0Eshe0Eisnt0Elooking0Eback0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The last time the Canada-born Leroux played soccer here, she heard boos (and worse) while representing the United States at an Olympic qualifying tournament.",
+                  "pubDate":"Tue, 16 Jun 2015 18:00:43 GMT",
+                  "permaLink":"",
+                  "id":"0000782"
+               },
+               {  
+                  "title":"Belichick, Snowden and Hack Wilson: Twitter Reacts to Cardinals Scandal",
+                  "link":"http://rss.nytimes.com/c/34625/f/640382/s/474b3657/sc/21/l/0L0Snytimes0N0C20A150C0A60C170Csports0Cbaseball0Cbelichick0Esnowden0Eand0Ehack0Ewilson0Etwitter0Ereacts0Eto0Ecardinals0Escandal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Twitter reacted to the Cardinals-Astros hacking news as Twitter often reacts to sports stories: with witticisms, a sense of schadenfreude and Patriots jokes.",
+                  "pubDate":"Tue, 16 Jun 2015 18:22:20 GMT",
+                  "permaLink":"",
+                  "id":"0000781"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Art & Design",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/design/index.html?partner=rss&emc=rss",
+            "feedDescription":"ArtandDesign",
+            "whenLastUpdate":"Tue, 16 Jun 2015 17:45:45 GMT",
+            "item":[  
+               {  
+                  "title":"T Magazine: Takashi Murakami Has Been Wearing Vans for 10 Years",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474b253a/sc/14/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C160Ctakashi0Emurakami0Evans0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The artist celebrates his loyalty to the brand’s slip-on shoes with a summery capsule collection.",
+                  "pubDate":"Tue, 16 Jun 2015 16:25:32 GMT",
+                  "permaLink":"",
+                  "id":"0000303"
+               },
+               {  
+                  "title":"T Magazine: Inside Nike’s Supersecret Showroom and Fitness Studio",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474b4e41/sc/14/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C160C45grand0Enike0Esuper0Esecret0Eshowroom0Efitness0Estudio0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"At the brand’s exclusive new SoHo space, its performance wear proves itself in workout classes for fashion editors, insiders and the like.",
+                  "pubDate":"Tue, 16 Jun 2015 17:27:50 GMT",
+                  "permaLink":"",
+                  "id":"0000302"
+               }
+            ]
+         }
+      ]
+   }
+}

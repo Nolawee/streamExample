@@ -19,306 +19,508 @@
             ]
          },
          {  
-            "feedTitle":"Company news - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_news_companies.rss",
-            "websiteUrl":"http://money.cnn.com/news/companies/?section=money_news_companies",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 16:15:14 GMT",
+            "feedTitle":"NYT > World",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/World.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+            "feedDescription":"World",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:34:19 GMT",
             "item":[  
                {  
-                  "title":"General Mills to nix artificial flavors and colors from its cereals",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_companies/~3/CmemNJl5PWM/index.html",
-                  "body":"General Mills says it will drop artificial flavors and colors from cereals such as Lucky Charms by the end of 2016.",
-                  "pubDate":"Mon, 22 Jun 2015 15:26:34 GMT",
+                  "title":"Leak of Pope Francis’ Encyclical Hints at Tensions in Vatican",
+                  "link":"http://rss.nytimes.com/c/34625/f/642565/s/474c380b/sc/31/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Ceurope0Cleak0Eof0Epope0Efrancis0Eencyclical0Ehints0Eat0Etensions0Ein0Evatican0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The unexpected leak has raised questions about who caused it, whether they meant to embarrass the pope and if it portends larger fights to come.",
+                  "pubDate":"Tue, 16 Jun 2015 19:40:37 GMT",
                   "permaLink":"",
-                  "id":"0010546"
+                  "id":"0001188"
                }
             ]
          },
-         {  
-            "feedTitle":"Auto news - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_autos.rss",
-            "websiteUrl":"http://money.cnn.com/Autos/?section=money_autos",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:46:42 GMT",
-            "item":[  
-               {  
-                  "title":"American executive arrested in Japan over painkillers",
-                  "link":"http://money.cnn.com/2015/06/19/news/toyota-executive-oxycodone-arrest/index.html?section=money_autos",
-                  "body":"The first western woman to be named a senior executive at Toyota has been arrested in Japan after allegedly importing oxycodone.",
-                  "pubDate":"Fri, 19 Jun 2015 09:04:26 GMT",
-                  "permaLink":"http://money.cnn.com/2015/06/19/news/toyota-executive-oxycodone-arrest/index.html?section=money_autos",
-                  "id":"0010200"
-               }
-            ]
-         },
-         {  
-            "feedTitle":"Personal finance news - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_pf.rss",
-            "websiteUrl":"http://money.cnn.com/pf/?section=money_pf",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:46:40 GMT",
-            "item":[  
-               {  
-                  "title":"Doctors and nurses busted for $712 million Medicare fraud",
-                  "link":"http://rss.cnn.com/~r/rss/money_pf/~3/UOFqt5V6TrU/index.html",
-                  "body":"In the largest Medicare fraud takedown ever, 243 people were arrested for allegedly billing Medicare for $712 million worth of patient care that was never given or unnecessary.",
-                  "pubDate":"Sun, 21 Jun 2015 18:50:25 GMT",
-                  "permaLink":"",
-                  "id":"0010199"
-               },
-               {  
-                  "title":"I survived college mania at America's most stressed-out high school",
-                  "link":"http://rss.cnn.com/~r/rss/money_pf/~3/LSyxHmPUBSs/index.html",
-                  "body":"The Harvard-Stanford admissions hoax at a Virginia high school shows college mania has gone too far.",
-                  "pubDate":"Sun, 21 Jun 2015 21:50:30 GMT",
-                  "permaLink":"",
-                  "id":"0010198"
-               },
-               {  
-                  "title":"This could be a big deal for same-sex couples",
-                  "link":"http://rss.cnn.com/~r/rss/money_pf/~3/DlcjBsh5XZM/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Fri, 19 Jun 2015 14:19:53 GMT",
-                  "permaLink":"",
-                  "id":"0010197"
-               }
-            ]
-         },
-         {  
-            "feedTitle":"Latest stock market news from Wall Street - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_markets.rss",
-            "websiteUrl":"http://money.cnn.com/markets/?section=money_markets",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:46:38 GMT",
-            "item":[  
-               {  
-                  "title":"Stocks: 4 things to know before the open",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/rPgHlfW2prQ/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 11:02:50 GMT",
-                  "permaLink":"",
-                  "id":"0010196"
-               },
-               {  
-                  "title":"Greece at make or break moment",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/52g7lY3JdFk/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Sun, 21 Jun 2015 18:08:37 GMT",
-                  "permaLink":"",
-                  "id":"0010195"
-               },
-               {  
-                  "title":"Anthem and Cigna merger talks spill out in public, and it's not pretty",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/GhqP1gt1YuE/index.html",
-                  "body":"Health insurance provider Anthem upped the pressure on Cigna, but the company doesn't want to be bought.",
-                  "pubDate":"Sun, 21 Jun 2015 23:36:12 GMT",
-                  "permaLink":"",
-                  "id":"0010194"
-               },
-               {  
-                  "title":"Who gets burned when China's stock bubble bursts?",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/Sk_n4k0SVCQ/index.html",
-                  "body":"China's stocks have soared to unbelievable highs this year -- but what goes up, must come down.",
-                  "pubDate":"Mon, 22 Jun 2015 00:41:36 GMT",
-                  "permaLink":"",
-                  "id":"0010193"
-               },
-               {  
-                  "title":"Europe gives new Greek plan a cautious welcome",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/ZS1f372zVZA/index.html",
-                  "body":"Europe gave a cautious welcome Monday to new Greek proposals aimed at ending a damaging standoff that threatens the country's future in the euro.",
-                  "pubDate":"Mon, 22 Jun 2015 13:39:35 GMT",
-                  "permaLink":"",
-                  "id":"0010192"
-               },
-               {  
-                  "title":"More pain for Putin: Europe extends Russia sanctions",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/6h_65RN0ewo/index.html",
-                  "body":"The Ukrainian conflict continues to deal a heavy financial toll on Russia, with Europe extending economic sanctions against the country for six months.",
-                  "pubDate":"Mon, 22 Jun 2015 14:53:48 GMT",
-                  "permaLink":"",
-                  "id":"0010191"
-               },
-               {  
-                  "title":"Stocks surge as investors bet on Greek deal",
-                  "link":"http://rss.cnn.com/~r/rss/money_markets/~3/6mDMuYlyHxg/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 12:14:31 GMT",
-                  "permaLink":"",
-                  "id":"0010190"
-               }
-            ]
-         },
-         {  
-            "feedTitle":"World business news - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_news_international.rss",
-            "websiteUrl":"http://money.cnn.com/news/international/?section=money_news_international",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:46:36 GMT",
-            "item":[  
-               {  
-                  "title":"Uber says no guns or no rides",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/ehv-CMsozPc/index.html",
-                  "body":"The ride-share company Uber changed its policies, banning driver and passengers from carrying guns",
-                  "pubDate":"Sun, 21 Jun 2015 19:33:12 GMT",
-                  "permaLink":"",
-                  "id":"0010172"
-               },
-               {  
-                  "title":"Photos: Windows has changed unbelievably in 30 years",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/Vw7YHyXo7Z4/index.html",
-                  "body":"Windows 10 is coming July 29. Here's a look back at Windows, starting with version 1.0.",
-                  "pubDate":"Mon, 22 Jun 2015 12:38:34 GMT",
-                  "permaLink":"",
-                  "id":"0010171"
-               },
-               {  
-                  "title":"'Jurassic World' beats 'Inside Out' on opening weekend",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/gQtG9JdJpqM/index.html",
-                  "body":"For the first time since 1995, a Pixar film wasn't the top-grossing movie at the U.S. box office on its opening weekend: \"Inside Out\" made an estimated $91 million, but \"Jurassic World' made more.",
-                  "pubDate":"Mon, 22 Jun 2015 09:59:13 GMT",
-                  "permaLink":"",
-                  "id":"0010170"
-               },
-               {  
-                  "title":"Apple caves after Taylor Swift's threat to pull album",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/DsvHacqG1qE/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 10:45:16 GMT",
-                  "permaLink":"",
-                  "id":"0010169"
-               },
-               {  
-                  "title":"Who gets burned if China's stock bubble bursts?",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/5ZiNUwrd7OM/index.html",
-                  "body":"China's stocks have soared to unbelievable highs this year -- but what goes up, must come down.",
-                  "pubDate":"Mon, 22 Jun 2015 00:42:57 GMT",
-                  "permaLink":"",
-                  "id":"0010168"
-               },
-               {  
-                  "title":"Apple CEO Tim Cook: Remove symbols of racism",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/mHaH2L4gZo8/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 11:46:45 GMT",
-                  "permaLink":"",
-                  "id":"0010167"
-               },
-               {  
-                  "title":"Europe gives new Greek plan cautious welcome",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_international/~3/9gIPYhkagqs/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 15:14:33 GMT",
-                  "permaLink":"",
-                  "id":"0010164"
-               }
-            ]
-         },
-         {  
-            "feedTitle":"Economic news - CNNMoney.com",
-            "feedUrl":"http://rss.cnn.com/rss/money_news_economy.rss",
-            "websiteUrl":"http://money.cnn.com/news/economy/?section=money_news_economy",
-            "feedDescription":"CNNMoney.com, the business website of CNN, combines business news and in-depth market analysis with practical advice and answers to personal finance questions.",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:46:35 GMT",
-            "item":[  
-               {  
-                  "title":"Christian, gay, family ties to Hamas: I'll be killed if I'm deported",
-                  "link":"http://rss.cnn.com/~r/rss/money_news_economy/~3/vDd2-rIjssk/index.html",
-                  "body":"Read full story for latest details.",
-                  "pubDate":"Mon, 22 Jun 2015 12:39:32 GMT",
-                  "permaLink":"",
-                  "id":"0010160"
-               }
-            ]
-         },
-         {  
-            "feedTitle":"NYT > Media",
-            "feedUrl":"http://mediadecoder.blogs.nytimes.com/feed/",
-            "websiteUrl":"http://www.nytimes.com/pages/business/media/index.html?partner=rss&emc=rss",
-            "feedDescription":"MediaandAdvertising",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:44:44 GMT",
-            "item":[  
-               {  
-                  "title":"Al Jazeera Journalist Held in Germany Awaits Verdict on Egyptian Arrest Warrant",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/477137a8/sc/11/l/0L0Snytimes0N0C20A150C0A60C220Cworld0Ceurope0Cal0Ejazeera0Ejournalist0Eahmed0Emansour0Earrest0Ewarrant0Eberlin0Eegypt0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"Ahmed Mansour is one of many figures whose arrest and extradition Cairo has demanded. His lawyers said the charges were politically motivated.",
-                  "pubDate":"Sun, 21 Jun 2015 16:32:58 GMT",
-                  "permaLink":"",
-                  "id":"0009326"
-               },
-               {  
-                  "title":"Altice Offers to Buy Bouygues Telecom for $11.3 Billion",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/4773aa5c/sc/28/l/0L0Snytimes0N0C20A150C0A60C220Cbusiness0Cdealbook0Caltice0Eoffers0Eto0Ebuy0Ebouygues0Etelecom0Efor0E110E30Ebillion0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"The deal, if finalized, would combine two of the largest French mobile providers and oust Orange as France’s biggest mobile operator.",
-                  "pubDate":"Sun, 21 Jun 2015 17:06:25 GMT",
-                  "permaLink":"",
-                  "id":"0009325"
-               },
-               {  
-                  "title":"Cannes Lions Festival Shifts Focus Toward Ad Technology",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/47714699/sc/28/l/0L0Snytimes0N0C20A150C0A60C220Cbusiness0Cmedia0Ccannes0Elions0Efestival0Eshifts0Efocus0Etoward0Ead0Etechnology0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"Companies that had once operated on the fringes of the conference in France are now central to the event, which was created to showcase and award the best in advertising.",
-                  "pubDate":"Mon, 22 Jun 2015 00:44:36 GMT",
-                  "permaLink":"",
-                  "id":"0009324"
-               },
-               {  
-                  "title":"Comcast and NBCUniversal Open Cross-Promotional Ad Strategy",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/47714696/sc/15/l/0L0Snytimes0N0C20A150C0A60C220Cbusiness0Cmedia0Ccomcast0Eand0Enbc0Eopen0Ecross0Epromotional0Ead0Estrategy0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"The campaign, called Symphony, has been opened to outside advertisers. The idea is to use Comcast’s multiplatform range of assets for ad campaigns.",
-                  "pubDate":"Mon, 22 Jun 2015 00:57:19 GMT",
-                  "permaLink":"",
-                  "id":"0009323"
-               },
-               {  
-                  "title":"Brian Williams Scandal Shows Power of Social Media",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/47718e1f/sc/28/l/0L0Snytimes0N0C20A150C0A60C220Cbusiness0Cmedia0Cbrian0Ewilliams0Escandal0Eshows0Epower0Eof0Esocial0Emedia0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"As the NBC News anchor learned, even amateur sleuths can expose untruths and spread the outrage.",
-                  "pubDate":"Mon, 22 Jun 2015 01:31:30 GMT",
-                  "permaLink":"",
-                  "id":"0009322"
-               },
-               {  
-                  "title":"Taylor Swift Criticism Spurs Apple to Change Royalties Policy",
-                  "link":"http://rss.nytimes.com/c/34625/f/640354/s/477025fe/sc/28/l/0L0Snytimes0N0C20A150C0A60C220Cbusiness0Cmedia0Ctaylor0Eswift0Ecriticizes0Eapples0Eterms0Efor0Estreaming0Emusic0Eservice0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"Ms. Swift had framed a letter posted to her Tumblr page as an explanation for why she was withholding her latest album, “1989,” from Apple’s new music streaming service.",
-                  "pubDate":"Mon, 22 Jun 2015 04:31:15 GMT",
-                  "permaLink":"",
-                  "id":"0009321"
-               }
-            ]
-         },
+      
          {  
             "feedTitle":"NYT > Fashion & Style",
             "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
             "websiteUrl":"http://www.nytimes.com/pages/fashion/index.html?partner=rss&emc=rss",
             "feedDescription":"FashionandStyle",
-            "whenLastUpdate":"Mon, 22 Jun 2015 15:44:44 GMT",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:33:35 GMT",
             "item":[  
                {  
-                  "title":"Fashion Review: Versace, Bottega Veneta, Zegna: Conjuring a Consumer’s Style",
-                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/47702714/sc/14/l/0L0Snytimes0N0C20A150C0A60C220Cfashion0Cmens0Estyle0Cmilan0Emens0Efashion0Espring0E20A160Eversace0Ebottega0Eveneta0Eermenegildo0Ezegna0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"In Milan, the men’s wear collections showcased designers’ inventiveness.",
-                  "pubDate":"Sun, 21 Jun 2015 16:37:33 GMT",
+                  "title":"T Magazine: Astrid Andersen and A$AP Ferg Team Up for a Kung-Fu Ode to the ’90s",
+                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/474bbb8d/sc/14/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C150Castrid0Eandersen0Easap0Eferg0Evideo0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The Danish men’s wear designer and the rapper collaborated on a video showcasing her spring/summer 2016 collection.",
+                  "pubDate":"Tue, 16 Jun 2015 15:52:06 GMT",
                   "permaLink":"",
-                  "id":"0009320"
+                  "id":"0001154"
                },
                {  
-                  "title":"Fashion Review: Exactly What Is a Fashion Show?",
-                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/4775fef3/sc/14/l/0L0Snytimes0N0C20A150C0A60C230Cfashion0Cmens0Estyle0Cmens0Efashion0Emilan0Espring0E20A160Emoncler0Egamme0Ebleu0Esalvatore0Eferragamo0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"At Pringle of Scotland, Moncler, Ferragamo and Marni, the answer varies widely.",
-                  "pubDate":"Mon, 22 Jun 2015 14:29:54 GMT",
+                  "title":"Skin Deep: Using DNA Tests to Personalize Skin Care",
+                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/474bbb91/sc/14/l/0L0Snytimes0N0C20A150C0A60C180Cfashion0Cusing0Edna0Etests0Eto0Epersonalize0Eskin0Ecare0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"A London company uses­ DNA testing to match skin care to the individual.",
+                  "pubDate":"Tue, 16 Jun 2015 19:11:05 GMT",
                   "permaLink":"",
-                  "id":"0009319"
+                  "id":"0001153"
                },
                {  
-                  "title":"Fashion Review: Prada and Gucci Advance the Gender Blur",
-                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/4775fef1/sc/14/l/0L0Snytimes0N0C20A150C0A60C230Cfashion0Cmens0Estyle0Cmilan0Emens0Espring0E20A160Efashion0Eprada0Ecalvin0Eklein0Egucci0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
-                  "body":"At Prada, roughly half the men’s show was the women’s resort collection, while Gucci was just fun to watch.",
-                  "pubDate":"Mon, 22 Jun 2015 14:32:07 GMT",
+                  "title":"Fashion Diary: A ‘Star Wars’ Inspired Runway Show With Galactic Support",
+                  "link":"http://rss.nytimes.com/c/34625/f/640335/s/474bbb8b/sc/14/l/0L0Snytimes0N0C20A150C0A60C180Cfashion0Ca0Estar0Ewars0Einspired0Erunway0Eshow0Ewith0Egalactic0Esupport0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The designer Bobby Abley references Darth Vader, “Chewy” and more characters from the films in his spring 2016 London men’s wear show.",
+                  "pubDate":"Tue, 16 Jun 2015 19:45:28 GMT",
                   "permaLink":"",
-                  "id":"0009318"
+                  "id":"0001152"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Food",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/dining/index.html?partner=rss&emc=rss",
+            "feedDescription":"DiningandWine",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:33:28 GMT",
+            "item":[  
+               {  
+                  "title":"Recipes for Health: A Chicken Tagine That Gives Rhubarb the Last Say",
+                  "link":"http://rss.nytimes.com/c/34625/f/640327/s/474c0351/sc/26/l/0L0Snytimes0N0C20A150C0A60C170Cdining0Ca0Echicken0Etagine0Ethat0Egives0Erhubarb0Ethe0Elast0Esay0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"This dish replaces preserved lemon with poached rhubarb for a twist on a Moroccan classic.",
+                  "pubDate":"Tue, 16 Jun 2015 19:14:52 GMT",
+                  "permaLink":"",
+                  "id":"0001145"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Business Day",
+            "feedUrl":"http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/business/index.html?partner=rss&emc=rss",
+            "feedDescription":"Business",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:33:24 GMT",
+            "item":[  
+               {  
+                  "title":"Judge in A.I.G. Case Rebukes Davis Polk Law Firm",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474c3898/sc/24/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Cdealbook0Cjudge0Ein0Eaig0Ecase0Erebukes0Edavis0Epolk0Elaw0Efirm0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The Justice Department may have hurt its cause when it put lawyers from Davis Polk & Wardwell on the stand in the A.I.G. bailout trial.",
+                  "pubDate":"Tue, 16 Jun 2015 18:37:46 GMT",
+                  "permaLink":"",
+                  "id":"0001138"
+               },
+               {  
+                  "title":"Breakingviews: Goldman’s Consumer Loan Plan Poses Risks",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474be15e/sc/24/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Cdealbook0Cgoldmans0Econsumer0Eloan0Eplan0Eposes0Erisks0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The firm’s plan to enter the personal loan business has its advantages, but it is also one with many distractions and potential hazards.",
+                  "pubDate":"Tue, 16 Jun 2015 18:55:07 GMT",
+                  "permaLink":"",
+                  "id":"0001137"
+               },
+               {  
+                  "title":"Charitable Giving Rises Past Prerecession Mark",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/47451830/sc/15/l/0L0Snytimes0N0C20A150C0A60C160Cbusiness0Ccharitable0Egiving0Erises0Epast0Eprerecession0Emark0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Contributions rose for the fifth year in a row and in all categories, according to a new report from the Giving USA Foundation.",
+                  "pubDate":"Tue, 16 Jun 2015 19:33:04 GMT",
+                  "permaLink":"",
+                  "id":"0001136"
+               },
+               {  
+                  "title":"Home Construction Permits Soared in May; Housing Industry Fortunes Improving",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474be15a/sc/28/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Ceconomy0Chome0Econstruction0Epermits0Esoared0Ein0Emay0Ehousing0Eindustry0Efortunes0Eimproving0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Building permits surged 11.8 percent to a seasonally adjusted annual pace of 1.28 million units, the highest since August 2007, the Commerce Department said.",
+                  "pubDate":"Tue, 16 Jun 2015 20:07:56 GMT",
+                  "permaLink":"",
+                  "id":"0001135"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Art & Design",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/design/index.html?partner=rss&emc=rss",
+            "feedDescription":"ArtandDesign",
+            "whenLastUpdate":"Tue, 16 Jun 2015 20:33:23 GMT",
+            "item":[  
+               {  
+                  "title":"Review: Eddo Stern’s ‘Vietnam Romance’ Is Art You Can Watch or Play",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474bdc77/sc/27/l/0L0Snytimes0N0C20A150C0A60C190Carts0Cdesign0Creview0Eeddo0Esterns0Evietnam0Eromance0Eis0Eart0Eyou0Ecan0Ewatch0Eor0Eplay0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"With its video game metaphor, this exhibition at Postmasters examines the fuzzy border between war and games.",
+                  "pubDate":"Tue, 16 Jun 2015 19:29:03 GMT",
+                  "permaLink":"",
+                  "id":"0001134"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Opinion",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Opinion.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/opinion/index.html?partner=rss&emc=rss",
+            "feedDescription":"Opinion",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:37:22 GMT",
+            "item":[  
+               {  
+                  "title":"Op-Ed Contributor: Rachel Dolezal’s Harmful Masquerade",
+                  "link":"http://rss.nytimes.com/c/34625/f/640370/s/474b85c0/sc/42/l/0L0Snytimes0N0C20A150C0A60C160Copinion0Crachel0Edolezals0Eharmful0Emasquerade0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"I will accept her as black like me only when society can accept me as white like her.",
+                  "pubDate":"Tue, 16 Jun 2015 19:06:45 GMT",
+                  "permaLink":"",
+                  "id":"0000991"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Automobiles",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Automobiles.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/automobiles/index.html?partner=rss&emc=rss",
+            "feedDescription":"Automobiles",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:36:48 GMT",
+            "item":[  
+               {  
+                  "title":"Kirk Kerkorian, Billionaire Investor in Film Studios and Casinos, Dies at 98",
+                  "link":"http://rss.nytimes.com/c/34625/f/640311/s/474bc974/sc/21/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Ckirk0Ekerkorian0Ebillionaire0Einvestor0Ein0Efilm0Estudios0Eand0Ecasinos0Edies0Eat0E980Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"A son of Armenian immigrants, Mr. Kerkorian was known for his large purchases of stock in Las Vegas and Hollywood companies, and his private lifestyle.",
+                  "pubDate":"Tue, 16 Jun 2015 17:43:05 GMT",
+                  "permaLink":"",
+                  "id":"0000976"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Arts",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Arts.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/index.html?partner=rss&emc=rss",
+            "feedDescription":"Arts",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:36:47 GMT",
+            "item":[  
+               {  
+                  "title":"ArtsBeat: ‘Orange Is the New Black’ Season 3, Episode 8 Recap: The Alex Problem",
+                  "link":"http://rss.nytimes.com/c/34625/f/640308/s/474b8483/sc/28/l/0Lartsbeat0Bblogs0Bnytimes0N0C20A150C0A60C160Corange0Eis0Ethe0Enew0Eblack0Eseason0E30Eepisode0E80Erecap0Ealex0Eflashback0Ekubra0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The show doesn’t seem to know how to reintegrate her into Litchfield life.",
+                  "pubDate":"Tue, 16 Jun 2015 19:00:00 GMT",
+                  "permaLink":"",
+                  "id":"0000975"
+               },
+               {  
+                  "title":"ArtsBeat: John Cleese and Eric Idle to Hit the Road Together",
+                  "link":"http://rss.nytimes.com/c/34625/f/640308/s/47425f18/sc/14/l/0Lartsbeat0Bblogs0Bnytimes0N0C20A150C0A60C150Cjohn0Ecleese0Eand0Eeric0Eidle0Eto0Ehit0Ethe0Eroad0Etogether0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The Monty Python comedians have not appeared as a duo before.",
+                  "pubDate":"Tue, 16 Jun 2015 19:00:56 GMT",
+                  "permaLink":"",
+                  "id":"0000974"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Science",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Science.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/science/index.html?partner=rss&emc=rss",
+            "feedDescription":"Science",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:07:24 GMT",
+            "item":[  
+               {  
+                  "title":"Pluto Just 4 Weeks, 20 Million Miles Away for Spacecraft",
+                  "link":"http://rss.nytimes.com/c/34625/f/640377/s/474bfb4a/sc/28/l/0L0Snytimes0N0Caponline0C20A150C0A60C160Cscience0Cap0Eus0Esci0Epluto0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"NASA's New Horizons spacecraft is on Pluto's doorstep, following an incredible journey of nine years and 3 billion miles.",
+                  "pubDate":"Tue, 16 Jun 2015 18:56:24 GMT",
+                  "permaLink":"",
+                  "id":"0000865"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Europe",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Europe.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/europe/index.html?partner=rss&emc=rss",
+            "feedDescription":"Europe",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:07:05 GMT",
+            "item":[  
+               {  
+                  "title":"Vladimir Putin Says 40 New Missiles Will Be Added to Russian Nuclear Arsenal",
+                  "link":"http://rss.nytimes.com/c/34625/f/640334/s/474bb26f/sc/7/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Ceurope0Cputin0E40A0Enew0Emissiles0Erussian0Enuclear0Earsenal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The announcement came a day after Russian officials denounced a plan by the United States to station tanks and heavy weapons in NATO member states on Russia’s border.",
+                  "pubDate":"Tue, 16 Jun 2015 18:27:26 GMT",
+                  "permaLink":"",
+                  "id":"0000864"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Food",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/dining/index.html?partner=rss&emc=rss",
+            "feedDescription":"DiningandWine",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:06:51 GMT",
+            "item":[  
+               {  
+                  "title":"Off the Menu: Gabriel Kreuther Opening His Own Place; Dante Gets a Spruce-Up",
+                  "link":"http://rss.nytimes.com/c/34625/f/640327/s/474b5d35/sc/26/l/0L0Snytimes0N0C20A150C0A60C170Cdining0Cgabriel0Ekreuther0Eopening0Ehis0Eown0Eplace0Edante0Egets0Ea0Espruce0Eup0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Sofrito moves to a new home, while lunch crowds gather for sandwiches at David Chang’s Fuku.",
+                  "pubDate":"Tue, 16 Jun 2015 18:33:09 GMT",
+                  "permaLink":"",
+                  "id":"0000853"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Business Day",
+            "feedUrl":"http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/business/index.html?partner=rss&emc=rss",
+            "feedDescription":"Business",
+            "whenLastUpdate":"Tue, 16 Jun 2015 19:06:48 GMT",
+            "item":[  
+               {  
+                  "title":"Economic Scene: Doing More, Not Less, to Save Retirees From Financial Ruin",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474bb3cc/sc/24/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Ceconomy0Cdoing0Emore0Enot0Eless0Eto0Esave0Eretirees0Efrom0Efinancial0Eruin0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The United States may need to enhance Social Security rather than curb it and require employers to take more responsibility for employees’ retirement savings.",
+                  "pubDate":"Tue, 16 Jun 2015 17:55:56 GMT",
+                  "permaLink":"",
+                  "id":"0000848"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > World",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/World.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+            "feedDescription":"World",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:41 GMT",
+            "item":[  
+               {  
+                  "title":"Putin Says 40 New Missiles Will Be Added to Russian Nuclear Arsenal",
+                  "link":"http://rss.nytimes.com/c/34625/f/642565/s/474bc126/sc/7/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Ceurope0Cputin0E40A0Enew0Emissiles0Erussian0Enuclear0Earsenal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The announcement came a day after Russian officials denounced a plan by the United States to station tanks and heavy weapons in NATO member states on Russia’s border.",
+                  "pubDate":"Tue, 16 Jun 2015 18:27:26 GMT",
+                  "permaLink":"",
+                  "id":"0000789"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Politics",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Washington.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/politics/index.html?partner=rss&emc=rss",
+            "feedDescription":"Politics",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:40 GMT",
+            "item":[  
+               {  
+                  "title":"First Draft: Choice Words From Donald Trump, Presidential Candidate",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b5c23/sc/7/l/0L0Snytimes0N0Cpolitics0Cfirst0Edraft0C20A150C0A60C160Cchoice0Ewords0Efrom0Edonald0Etrump0Epresidential0Ecandidate0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Donald Trump was typically bombastic, opinionated and full of praise for himself. “I like China,” he said. “I just sold an apartment for $15 million to somebody from China. Am I supposed to dislike them?”",
+                  "pubDate":"Tue, 16 Jun 2015 18:02:43 GMT",
+                  "permaLink":"",
+                  "id":"0000788"
+               },
+               {  
+                  "title":"House Moves to Delay Action on Trade Bill for 6 Weeks",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b5c24/sc/7/l/0L0Snytimes0N0C20A150C0A60C170Cus0Chouse0Emoves0Eto0Edelay0Eaction0Eon0Etrade0Ebill0Efor0E60Eweeks0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The effort would give the House until the end of July to try and line up votes needed to give President Obama fast-track trade negotiating authority.",
+                  "pubDate":"Tue, 16 Jun 2015 18:03:42 GMT",
+                  "permaLink":"",
+                  "id":"0000787"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Television",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Television.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/television/index.html?partner=rss&emc=rss",
+            "feedDescription":"Television",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:35 GMT",
+            "item":[  
+               {  
+                  "title":"Excerpt: ‘Orange Is the New Black’",
+                  "link":"http://rss.nytimes.com/c/34625/f/640388/s/474baf9b/sc/28/l/0L0Snytimes0N0Cvideo0Cembedded0Carts0Ctelevision0C10A0A0A0A0A0A0A37434520Cexcerpt0Eorange0Eis0Ethe0Enew0Eblack0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Laverne Cox and Selenis Leyva in a scene from the third season of the Netflix series.",
+                  "pubDate":"Tue, 16 Jun 2015 18:11:55 GMT",
+                  "permaLink":"",
+                  "id":"0000786"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Sports",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Sports.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/sports/index.html?partner=rss&emc=rss",
+            "feedDescription":"Sports",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:29 GMT",
+            "item":[  
+               {  
+                  "title":"Sydney Leroux Returns to Vancouver but Says She Isn’t Looking Back",
+                  "link":"http://rss.nytimes.com/c/34625/f/640382/s/474b76bd/sc/13/l/0L0Snytimes0N0C20A150C0A60C170Csports0Csoccer0Csydney0Eleroux0Ereturns0Eto0Evancouver0Ebut0Esays0Eshe0Eisnt0Elooking0Eback0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The last time the Canada-born Leroux played soccer here, she heard boos (and worse) while representing the United States at an Olympic qualifying tournament.",
+                  "pubDate":"Tue, 16 Jun 2015 18:00:43 GMT",
+                  "permaLink":"",
+                  "id":"0000782"
+               },
+               {  
+                  "title":"Belichick, Snowden and Hack Wilson: Twitter Reacts to Cardinals Scandal",
+                  "link":"http://rss.nytimes.com/c/34625/f/640382/s/474b3657/sc/21/l/0L0Snytimes0N0C20A150C0A60C170Csports0Cbaseball0Cbelichick0Esnowden0Eand0Ehack0Ewilson0Etwitter0Ereacts0Eto0Ecardinals0Escandal0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Twitter reacted to the Cardinals-Astros hacking news as Twitter often reacts to sports stories: with witticisms, a sense of schadenfreude and Patriots jokes.",
+                  "pubDate":"Tue, 16 Jun 2015 18:22:20 GMT",
+                  "permaLink":"",
+                  "id":"0000781"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > New York",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/nyregion/index.html?partner=rss&emc=rss",
+            "feedDescription":"NYRegion",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:52:18 GMT",
+            "item":[  
+               {  
+                  "title":"At 16, Not Too Young to Join the Community Board",
+                  "link":"http://rss.nytimes.com/c/34625/f/640367/s/474bb129/sc/33/l/0L0Snytimes0N0C20A150C0A60C170Cnyregion0Cnew0Eyork0Ecity0Ecommunity0Eboards0Ewelcome0Eteenage0Emembers0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"This marks the first year that 16- and 17-year-olds can join the city’s local advisory groups. Nineteen were appointed, and many of them began attending meetings this month.",
+                  "pubDate":"Tue, 16 Jun 2015 18:32:17 GMT",
+                  "permaLink":"",
+                  "id":"0000780"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Food",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/dining/index.html?partner=rss&emc=rss",
+            "feedDescription":"DiningandWine",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:51:50 GMT",
+            "item":[  
+               {  
+                  "title":"During Ramadan, Dates Are a Unifying Staple",
+                  "link":"http://rss.nytimes.com/c/34625/f/640327/s/474bc0b8/sc/14/l/0L0Snytimes0N0C20A150C0A60C170Cdining0Cramadan0Erecipes0Edates0Eiftar0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Out of respect for tradition, Muslim communities of the world break their fasts with the fruit, which is always available.",
+                  "pubDate":"Tue, 16 Jun 2015 18:11:26 GMT",
+                  "permaLink":"",
+                  "id":"0000733"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Business Day",
+            "feedUrl":"http://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/business/index.html?partner=rss&emc=rss",
+            "feedDescription":"Business",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:51:47 GMT",
+            "item":[  
+               {  
+                  "title":"United to Leave J.F.K. and Shift West Coast Flights to Newark",
+                  "link":"http://rss.nytimes.com/c/34625/f/640316/s/474b76a0/sc/24/l/0L0Snytimes0N0C20A150C0A60C170Cbusiness0Cunited0Eto0Eleave0Ejfk0Eand0Eshift0Ewest0Ecoast0Eflights0Eto0Enewark0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The airline said it had failed to turn a profit at Kennedy International Airport in recent years because passengers had no options to connect once they landed there.",
+                  "pubDate":"Tue, 16 Jun 2015 17:45:42 GMT",
+                  "permaLink":"",
+                  "id":"0000728"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Automobiles",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Automobiles.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/automobiles/index.html?partner=rss&emc=rss",
+            "feedDescription":"Automobiles",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:51:46 GMT",
+            "item":[  
+               {  
+                  "title":"Honda Recalls 1.39 Million Cars With Passenger-Side Takata Airbags",
+                  "link":"http://rss.nytimes.com/c/34625/f/640311/s/474b7c9b/sc/3/l/0L0Snytimes0N0Creuters0C20A150C0A60C150Cworld0Casia0C15reuters0Ehonda0Etakata0Erecall0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Honda Motor on Monday said it would recall 1.39 million Accord and Civic model sedans with potentially faulty front passenger-side airbags made by Japan’s Takata Corporation.",
+                  "pubDate":"Mon, 15 Jun 2015 22:17:57 GMT",
+                  "permaLink":"",
+                  "id":"0000726"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Art & Design",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/design/index.html?partner=rss&emc=rss",
+            "feedDescription":"ArtandDesign",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:51:44 GMT",
+            "item":[  
+               {  
+                  "title":"T Magazine: In the West Village, Modern Boutique Owners Who Live Where They Work",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474b3473/sc/28/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C160Cinside0Ecalliope0Ewest0Evillage0Estore0Ehome0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Michael and Caroline Ventura, who recently introduced the home store Calliope, open their doors to T.",
+                  "pubDate":"Tue, 16 Jun 2015 18:00:15 GMT",
+                  "permaLink":"",
+                  "id":"0000725"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Politics",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Washington.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/politics/index.html?partner=rss&emc=rss",
+            "feedDescription":"Politics",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:01:42 GMT",
+            "item":[  
+               {  
+                  "title":"First Draft: First Draft Focus: From Up High, Donald Trump Says He’s In",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b72ad/sc/7/l/0L0Snytimes0N0Cpolitics0Cfirst0Edraft0C20A150C0A60C160Cfirst0Edraft0Efocus0Efrom0Eup0Ehigh0Edonald0Etrump0Esays0Ehes0Ein0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Donald Trump officially announced his campaign for the presidency in a ceremony at Trump Tower in New York on Tuesday.",
+                  "pubDate":"Tue, 16 Jun 2015 17:28:51 GMT",
+                  "permaLink":"",
+                  "id":"0000587"
+               },
+               {  
+                  "title":"First Draft: In Overheard Interview, Jeb Bush Mocks Hillary Clinton and Opposes Gay Marriage",
+                  "link":"http://rss.nytimes.com/c/34625/f/640372/s/474b72af/sc/7/l/0L0Snytimes0N0Cpolitics0Cfirst0Edraft0C20A150C0A60C160Cin0Eoverheard0Einterview0Ejeb0Ebush0Emocks0Ehillary0Eclinton0Eand0Eopposes0Egay0Emarriage0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Former Gov. Jeb Bush of Florida, one day after officially announcing that he was running for president, was by turns serious and playful in an extensive interview in New Hampshire with Fox News.",
+                  "pubDate":"Tue, 16 Jun 2015 17:32:49 GMT",
+                  "permaLink":"",
+                  "id":"0000586"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Middle East",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/world/middleeast/index.html?partner=rss&emc=rss",
+            "feedDescription":"MiddleEast",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:01:08 GMT",
+            "item":[  
+               {  
+                  "title":"ISIS Loses Control of Crucial Syrian Border Town",
+                  "link":"http://rss.nytimes.com/c/34625/f/640355/s/474af6ef/sc/11/l/0L0Snytimes0N0C20A150C0A60C170Cworld0Cmiddleeast0Cisis0Eloses0Econtrol0Eof0Ecrucial0Esyrian0Eborder0Etown0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"Kurdish rebel fighters, helped by American-led airstrikes, took the town of Tal Abyad, which ISIS had used to smuggle in fighters and supplies.",
+                  "pubDate":"Tue, 16 Jun 2015 17:21:05 GMT",
+                  "permaLink":"",
+                  "id":"0000583"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Arts",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/Arts.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/index.html?partner=rss&emc=rss",
+            "feedDescription":"Arts",
+            "whenLastUpdate":"Tue, 16 Jun 2015 18:00:47 GMT",
+            "item":[  
+               {  
+                  "title":"Review: ‘Trainwreck Comedy Tour’ Is Amy Schumer’s Thing",
+                  "link":"http://rss.nytimes.com/c/34625/f/640308/s/474b51ef/sc/38/l/0L0Snytimes0N0C20A150C0A60C170Carts0Creview0Etrainwreck0Ecomedy0Etour0Eis0Eamy0Eschumers0Ething0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"At the Beacon Theater, Ms. Schumer was joined by Judd Apatow, Mike Birbiglia and other comedians to promote her coming movie through stand-up.",
+                  "pubDate":"Tue, 16 Jun 2015 17:29:17 GMT",
+                  "permaLink":"",
+                  "id":"0000562"
+               }
+            ]
+         },
+         {  
+            "feedTitle":"NYT > Art & Design",
+            "feedUrl":"http://www.nytimes.com/services/xml/rss/nyt/ArtandDesign.xml",
+            "websiteUrl":"http://www.nytimes.com/pages/arts/design/index.html?partner=rss&emc=rss",
+            "feedDescription":"ArtandDesign",
+            "whenLastUpdate":"Tue, 16 Jun 2015 17:45:45 GMT",
+            "item":[  
+               {  
+                  "title":"T Magazine: Takashi Murakami Has Been Wearing Vans for 10 Years",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474b253a/sc/14/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C160Ctakashi0Emurakami0Evans0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"The artist celebrates his loyalty to the brand’s slip-on shoes with a summery capsule collection.",
+                  "pubDate":"Tue, 16 Jun 2015 16:25:32 GMT",
+                  "permaLink":"",
+                  "id":"0000303"
+               },
+               {  
+                  "title":"T Magazine: Inside Nike’s Supersecret Showroom and Fitness Studio",
+                  "link":"http://rss.nytimes.com/c/34625/f/640307/s/474b4e41/sc/14/l/0Ltmagazine0Bblogs0Bnytimes0N0C20A150C0A60C160C45grand0Enike0Esuper0Esecret0Eshowroom0Efitness0Estudio0C0Dpartner0Frss0Gemc0Frss/story01.htm",
+                  "body":"At the brand’s exclusive new SoHo space, its performance wear proves itself in workout classes for fashion editors, insiders and the like.",
+                  "pubDate":"Tue, 16 Jun 2015 17:27:50 GMT",
+                  "permaLink":"",
+                  "id":"0000302"
                }
             ]
          }
@@ -334,4 +536,3 @@
       "aggregator":"River4 v0.113a"
    }
 }
-

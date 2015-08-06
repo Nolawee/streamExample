@@ -85,6 +85,9 @@ var fs = require('fs');
 var AlchemyAPI = require('./alchemyapi');
 var alchemyapi = new AlchemyAPI();
 var output = {};
+var posCounter = 0;
+var negCounter = 0;
+var nuetCounter = 0;
 /*
 console.log('Debut...');
 
@@ -117,7 +120,7 @@ for (var i = 0; i < jsonData.counters.length; i++) {
 }
 */
 
-var article = fs.readFileSync('./data.json');
+var article = fs.readFileSync('./datatest.json');
 config = JSON.parse(article);
 
 for (var i = 0; i < config.updatedFeeds.updatedFeed.length; i++) {
@@ -128,18 +131,58 @@ for (var i = 0; i < config.updatedFeeds.updatedFeed.length; i++) {
     for(var j = 0; j < object.length; j++){
         var itemObject = object[j];
         //console.log(itemObject.link);
-
-        alchemyapi.sentiment("url", itemObject.link, {}, function(response) {
-            console.log("Sentiment: " + response["docSentiment"]["type"]);
-        }); 
-        console.log(itemObject.title); 
-        var url = itemObject.link;
-
+        
+        //alchemyapi.sentiment("url", itemObject.link, {}, function(response) {
+        //    console.log("Sentiment: " + response["docSentiment"]["type"]);
+            /*
+            if (response["docSentiment"]["type"] === "positive"){
+              posCounter++;
+            }else if (response["docSentiment"]["type"] === "negative"){
+              negCounter++;
+            }else{
+              nuetCounter++;
+            }
+            */
+        //});
+        
+    alchemyapi.sentiment("url", itemObject.link, {}, function(response) {
+        console.log("Sentiment: " + response["docSentiment"]["type"]);
+        if (response.docSentiment.type == "negative") {
+            negCounter++;
+        }else if (response.docSentiment.type == "positive"){
+            posCounter++;
+        }
+    });
+        
+    console.log(itemObject.title); 
+    console.log(itemObject.pubDate); 
+        //console.log(posCounter);
+        //var url = itemObject.link;
+        /*
         alchemyapi.concepts("url", url, { 'showSourceText':1 }, function(response) {
             console.log("Concepts: " + response["concepts"]["type"]);
-        }); 
+        });
+        */ 
+        break;
     }
 }
+console.log("Articles that are Positive "+ posCounter)
+console.log("Articles that are Negative "+ negCounter)
+
+/*
+var url = "http://www.cnn.com/2015/08/03/world/zimbabwe-illegal-hunting-american/"
+
+alchemyapi.sentiment("url", url, {}, function(response) {
+    console.log("Sentiment: " + response["docSentiment"]["type"]);
+    if (response.docSentiment.type == "negative") {
+        negCounter++;
+    }else if (response.docSentiment.type == "positive"){
+        posCounter++;
+    }
+});
+*/
+
+
 
 
 
