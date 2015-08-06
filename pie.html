@@ -56,9 +56,19 @@
            d.endAngle = i(t);
          return arc(d);
        }
-  });
+  	});
 
-  	
+  	function newData(slices, articles){
+  		return d3.range(slices).map(function(){
+  			return d3.range(articles).map(function(item,index){
+  				return {x:index, y:Math.random()*100};
+  			});
+  		});
+  	}
+
+  	var data = newData(3,1);
+
+  	console.log(data);
 
 	</script>
 

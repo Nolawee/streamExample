@@ -54,10 +54,10 @@
 		var width = 960;
 		var height = 500 - 37;
 
-  		var familyMembers = ['Jon', 'James','Robert','Mary'];
-			familyMembers = familyMembers.map(function (member){
-			return member + ' Jones'
-		});
+  		//var familyMembers = ['Jon', 'James','Robert','Mary'];
+		//	familyMembers = familyMembers.map(function (member){
+		//	return member + ' Jones'
+		//});
 		/*
 		newData = d3.range(4).map(function(){
 			return d3.range(3).map(Math.random);
@@ -66,13 +66,6 @@
 		console.log(familyMembers)
 		console.log(newData)
 		*/
-		function newData(lineNumber, points){
-			return d3.range(lineNumber).map(function(){
-				return d3.range(points).map(function(item,index){
-					return {x:index, y:Math.random()*100};
-				});
-			});
-		}
 
 		var margin = {top: 20, right: 20, bottom:20, left:50};
 
@@ -90,6 +83,14 @@
 		var line = d3.svg.line().interpolate("monotone")
 			.x(function(d){ return xScale(d.x); })
 			.y(function(d){ return yScale(d.y); })
+
+		function newData(lineNumber, points){
+			return d3.range(lineNumber).map(function(){
+				return d3.range(points).map(function(item,index){
+					return {x:index, y:Math.random()*100};
+				});
+			});
+		}
 
 		function render(){
 			var data = newData(8,3);
@@ -109,25 +110,48 @@
 
 			yScale.domain([yMin,yMax]);
 
-			var yAxis = d3.svg.axis().scale(yScale).orient("left");
+			var yAxis = d3.svg.axis()
+				.scale(yScale).orient("left");
 
-			svg.selectAll(".y.axis").remove();
+			// if no axis exists, create one, otherwise update it
+			if (svg.selectAll(".y.axis")[0].length < 1){
+				svg.append("g")
+					.attr("class","y axis")
+					.call(yAxis);
+			}else{
+				svg.selectAll(".y.axis").transition().duration(1500).call(yAxis);
+			}
 
 			var lines = svg.selectAll(".line").data(data).attr("class","line");
 
-			lines.enter().append("path")
+			// transition from previous paths to new paths
+			lines.transition().duration(1500)
+				.attr("d",line)
+				.style("stroke", function(){
+					return '#'+Math.floor(Math.random()*16777215).toString(16);
+				});
+
+			// enter any new data
+			lines.enter()
+				.append("path")
 				.attr("class", "line")
-				.attr("d",line).style("stroke","blue");
+				.attr("d",line)
+				.style("stroke", function(){
+					return '#'+Math.floor(Math.random()*16777215).toString(16);
+				});
+
+			// exit
+			lines.exit()
+				.remove();
 		}
 
+		// initial page render
 		render();
 
+		// continuous page render
 		setInterval(render, 1500);
 
 	</script>
-
-
-
 </body>
 
 </html>
