@@ -91,7 +91,13 @@
   			{name: "negative", value: data[1][0].y},
   			{name: "nuetral", value: data[2][0].y}];
   	}
-
+    function arcTween(a) {
+      var i = d3.interpolate(this._current, a);
+      this._current = i(0);
+      return function(t) {
+        return arc(i(t));
+      }
+    }
 
 	</script>
 
