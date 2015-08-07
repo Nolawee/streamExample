@@ -9,10 +9,29 @@
 <body>
 
 	<script>
+
+	function newData(slices, articles){
+  		return d3.range(slices).map(function(){
+  			return d3.range(articles).map(function(item,index){
+  				return {x:index, y:Math.random()*100};
+  			});
+  		});
+  	}
+
+  	var data = newData(3,1);
+
+  	if( data[0][0].y > data[1][0].y && data[0][0].y > data[2][0].y ){
+  		console.log("Mostly Positive");
+  	} else if( data[1][0].y > data[0][0].y && data[1][0].y > data[2][0].y ){
+  		console.log("Mostly Negative");
+  	} else if( data[2][0].y > data[0][0].y && data[2][0].y > data[1][0].y ){
+  		console.log("Mostly Nuetral");
+  	}
 	
-	var data = [ {name: "one", value: 68},
-			{name: "two", value:  66},
-			{name: "three", value:  10} ];
+	var data = [ {name: "positive", value: data[0][0].y},
+		{name: "negative", value:  data[1][0].y},
+		{name: "neutral", value:   data[2][0].y}];
+	
 
 	var margin = {top: 20, right: 20, bottom: 20, left: 20};
 		width = 400 - margin.left - margin.right;
@@ -29,7 +48,9 @@
 	var radius = Math.min(width, height) / 2;
 
 	var color = d3.scale.ordinal()
-		.range(["#FF0000", "#009933", "#C5C5A8"]);
+		.range(["#009933", "#FF0000", "#C5C5A8"]);
+
+
 
 	var arc = d3.svg.arc()
     	.outerRadius(radius)
@@ -58,17 +79,19 @@
        }
   	});
 
-  	function newData(slices, articles){
-  		return d3.range(slices).map(function(){
-  			return d3.range(articles).map(function(item,index){
-  				return {x:index, y:Math.random()*100};
-  			});
-  		});
+
+  	function render(){
+  		var data = newData(3,1);
+
+  		var data = [ {name: "positive", value: data[0][0].y},
+  			{name: "negative", value: data[1][0].y},
+  			{name: "nuetral", value: data[2][0].y}];
+
+  		var margin = {top: 20, right: 20, bottom: 20, left: 20};
+  			width = 400 - margin.left - margin.right;
+  			height = width - margin.top - margin.bottom;
   	}
 
-  	var data = newData(3,1);
-
-  	console.log(data);
 
 	</script>
 
